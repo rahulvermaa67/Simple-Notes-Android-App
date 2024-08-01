@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_light">#9E47FF</color>
+    <color name="secondary_text">#808080</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="error">#F44336</color>
+    <color name="dialog_start">#FFFFFF</color>
+    <color name="dialog_end">#F0F0F0</color>
+    <!-- Button color and border -->
+    <color name="button_color">#E6257F</color>
+    <color name="button_border">#D4005F</color>
+    <!-- Primary text color -->
+    <color name="primary_text">#333333</color>
+        <!-- Gradient colors -->
+        <color name="dialog_gradient_start">#FF6F61</color> <!-- Coral -->
+        <color name="dialog_gradient_end">#FFD54F</color>   <!-- Light Yellow -->
+
+</resources>
